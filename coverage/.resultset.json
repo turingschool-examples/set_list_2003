@@ -206,12 +206,49 @@
         "lines": [
           1,
           1,
+          1,
           null
         ]
       },
       "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/features/songs/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -337,6 +374,10 @@
           1,
           2,
           null,
+          null,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -348,6 +389,6 @@
         ]
       }
     },
-    "timestamp": 1588788030
+    "timestamp": 1588866002
   }
 }
