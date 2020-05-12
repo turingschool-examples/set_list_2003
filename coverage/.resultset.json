@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/corywest/Documents/module_2/set_list_2003/config/environment.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/environment.rb": {
         "lines": [
           null,
           1,
@@ -10,7 +10,7 @@
           1
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/config/application.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/application.rb": {
         "lines": [
           1,
           null,
@@ -45,14 +45,14 @@
           null
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/config/boot.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/boot.rb": {
         "lines": [
           1,
           null,
           1
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/config/environments/test.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/environments/test.rb": {
         "lines": [
           1,
           null,
@@ -98,7 +98,7 @@
           null
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/config/initializers/application_controller_renderer.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/initializers/application_controller_renderer.rb": {
         "lines": [
           null,
           null,
@@ -110,7 +110,7 @@
           null
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/config/initializers/assets.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/initializers/assets.rb": {
         "lines": [
           null,
           null,
@@ -128,7 +128,7 @@
           null
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/config/initializers/backtrace_silencers.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/initializers/backtrace_silencers.rb": {
         "lines": [
           null,
           null,
@@ -139,7 +139,7 @@
           null
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/config/initializers/cookies_serializer.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/initializers/cookies_serializer.rb": {
         "lines": [
           null,
           null,
@@ -148,7 +148,7 @@
           1
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/config/initializers/filter_parameter_logging.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/initializers/filter_parameter_logging.rb": {
         "lines": [
           null,
           null,
@@ -156,7 +156,7 @@
           1
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/config/initializers/inflections.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/initializers/inflections.rb": {
         "lines": [
           null,
           null,
@@ -176,7 +176,7 @@
           null
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/config/initializers/mime_types.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/initializers/mime_types.rb": {
         "lines": [
           null,
           null,
@@ -184,7 +184,7 @@
           null
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/config/initializers/wrap_parameters.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/initializers/wrap_parameters.rb": {
         "lines": [
           null,
           null,
@@ -202,7 +202,7 @@
           null
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/config/routes.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/config/routes.rb": {
         "lines": [
           1,
           1,
@@ -217,49 +217,21 @@
           1,
           1,
           1,
+          1,
+          null,
           1,
           null
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/app/helpers/application_helper.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/helpers/application_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/app/models/artist.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/features/artists/edit_spec.rb": {
         "lines": [
           1,
-          1,
-          1,
-          null,
-          1,
-          0,
-          null,
-          null
-        ]
-      },
-      "/Users/corywest/Documents/module_2/set_list_2003/app/models/application_record.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
-      "/Users/corywest/Documents/module_2/set_list_2003/app/controllers/songs_controller.rb": {
-        "lines": [
-          1,
-          1,
-          0,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
           null,
           1,
           1,
@@ -267,6 +239,11 @@
           null,
           1,
           null,
+          1,
+          null,
+          1,
+          null,
+          1,
           null,
           1,
           null,
@@ -276,30 +253,520 @@
           null
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/app/controllers/application_controller.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/features/artists/index_spec.rb": {
         "lines": [
           1,
+          null,
           1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null
         ]
       },
-      "/Users/corywest/Documents/module_2/set_list_2003/app/models/song.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/features/artists/new_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/features/artists/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/features/playlists/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/features/songs/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/features/songs/new_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/features/songs/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/models/artist_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          1,
+          2,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/models/artist.rb": {
         "lines": [
           1,
           1,
           1,
           null,
           1,
-          0,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/models/playlist_song_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/models/playlist_song.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/models/playlist_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/models/playlist.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/models/song_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/models/song.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          4,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/controllers/artists_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          4,
+          null,
+          null,
+          1,
+          5,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/controllers/playlists_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/controllers/songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
           null,
           null
         ]
       }
     },
-<<<<<<< HEAD
-    "timestamp": 1589207481
-=======
-    "timestamp": 1588960250
->>>>>>> a0107062159e6167b03cd60ce4f892aabd595a02
+    "timestamp": 1589302563
   }
 }
