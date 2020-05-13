@@ -19,6 +19,15 @@ RSpec.describe 'Create an Artist' do
     # expect(page).to have_content("Carly Rae")
 
   end
+
+  it 'I can not create an artist without a name' do
+    visit '/artists/new'
+
+    click_on 'Create Artist'
+
+    expect(page).to have_content("Artist not created: Required information missing.")
+    expect(page).to have_button('Create Artist')
+  end
 end
 
 

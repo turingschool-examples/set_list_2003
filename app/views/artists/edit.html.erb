@@ -1,7 +1,7 @@
 <h1>Edit Artist</h1>
 
-<%= form_tag "/artists/#{@artist_id}", method: :put do %>
+<%= form_tag "/artists/#{@artist.id}", method: :put do %>
   <%= label_tag :name %>
-  <%= text_field_tag :name %>
+  <%= text_field_tag :name, @artist.name %>
   <%= submit_tag "Update Artist" %>
 <% end %>
