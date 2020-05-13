@@ -24,7 +24,7 @@ RSpec.describe "the Playlist index page" do
 
     visit '/playlists'
 
-    within("#playlist-#{rock.id}") do
+    within(".playlist-#{rock.id}") do
       expect(page).to have_content(rock.name)
       expect(page).to have_content(place.title)
       expect(page).to have_content(heaven.title)
@@ -32,13 +32,13 @@ RSpec.describe "the Playlist index page" do
       expect(page).to_not have_content(chicken.title)
     end
 
-    within("#playlist-#{country.id}") do
+    within(".playlist-#{country.id}") do
       expect(page).to have_content(country.name)
       expect(page).to have_content(chicken.title)
       expect(page).to_not have_content(heaven.title)
     end
 
-    within("#playlist-#{jams.id}") do
+    within(".playlist-#{jams.id}") do
       expect(page).to have_content(jams.name)
       expect(page).to have_content(chicken.title)
       expect(page).to have_content(place.title)
