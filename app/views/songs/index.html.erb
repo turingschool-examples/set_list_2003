@@ -1,7 +1,7 @@
 <h1>All Songs</h1>
 
 <% @songs.each do |song| %>
-  <section class = "song-<%= song.id %>">
+  <section id = "song-<%= song.id %>">
     <h2><%= song.title %> </h2>
     <p>Play Count: <%= song.play_count %></p>
   </section>

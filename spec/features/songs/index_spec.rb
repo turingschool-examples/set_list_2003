@@ -14,11 +14,11 @@ RSpec.describe "as a user, when i visit the index page", type: :feature do
   it "can see all songs titles and play count" do
     visit "/songs"
 
-    within ".song-#{@song_1.id}" do
+    within "#song-#{@song_1.id}" do
       expect(page).to have_content(@song_1.title)
       expect(page).to have_content("Play Count: #{@song_1.play_count}")
     end
-    within ".song-#{@song_2.id}" do
+    within "#song-#{@song_2.id}" do
       expect(page).to have_content(@song_2.title)
       expect(page).to have_content("Play Count: #{@song_2.play_count}")
     end
