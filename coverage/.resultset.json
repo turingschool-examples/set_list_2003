@@ -220,6 +220,8 @@
           1,
           null,
           1,
+          null,
+          1,
           null
         ]
       },
@@ -384,6 +386,76 @@
           1,
           1,
           null,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/features/cart/add_song_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
           null,
           null
         ]
@@ -622,6 +694,83 @@
           null
         ]
       },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/models/cart_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/models/cart.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          46,
+          null,
+          null,
+          1,
+          36,
+          null,
+          null,
+          1,
+          10,
+          null,
+          null,
+          1,
+          18,
+          null,
+          null
+        ]
+      },
       "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/spec/models/playlist_song_spec.rb": {
         "lines": [
           1,
@@ -725,7 +874,7 @@
           1,
           null,
           1,
-          5,
+          15,
           null,
           null
         ]
@@ -787,14 +936,11 @@
         "lines": [
           1,
           1,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/controllers/playlists_controller.rb": {
-        "lines": [
+          null,
           1,
+          null,
           1,
-          1,
+          56,
           null,
           null
         ]
@@ -803,7 +949,7 @@
         "lines": [
           1,
           1,
-          3,
+          13,
           null,
           null,
           1,
@@ -828,8 +974,33 @@
           null,
           null
         ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/controllers/cart_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2003/app/controllers/playlists_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1589401510
+    "timestamp": 1589772907
   }
 }
