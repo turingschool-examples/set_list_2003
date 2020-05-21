@@ -1,4 +1,13 @@
 Rails.application.routes.draw do
+  root 'welcome#index'
+
+  get '/users/new', to: 'users#new'
+  post '/users', to: 'users#create'
+  get '/profile', to: 'users#show'
+
+  get '/login', to: 'sessions#new'
+  post '/login', to: 'sessions#create'
+
   get '/songs', to: 'songs#index'
   get '/songs/:id', to: 'songs#show'
 
